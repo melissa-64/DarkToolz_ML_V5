@@ -19,6 +19,22 @@
             "endDate": "2025-11-05T19:22:29Z",
             "displayDuration": 5000,
             "priority": "normal"
+        },
+        {
+            "id": "notif3",
+            "type": "discount",
+            "title": "Discord here",
+            "message": "klick the button below",
+            "startDate": "2025-06-08T19:23:42Z",
+            "endDate": "2025-11-05T19:23:42Z",
+            "displayDuration": 5000,
+            "priority": "normal",
+            "cta": {
+                "primary": {
+                    "text": "https://discord.gg/darktoolz",
+                    "url": ""
+                }
+            }
         }
     ]
 }
