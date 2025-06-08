@@ -9,7 +9,7 @@
         },
         "text": {
             "primary": "#FF0000",
-            "secondary": "#DC3545"
+            "secondary": "#000000"
         },
         "button": {
             "category": "#303030",
