@@ -9,6 +9,16 @@
             "endDate": "2025-07-08T18:41:23Z",
             "displayDuration": 5000,
             "priority": "normal"
+        },
+        {
+            "id": "notif2",
+            "type": "announcement",
+            "title": "Information",
+            "message": "All toolz are undetected!  this does not mean that you can play on the main!  Play safe! Have fun!",
+            "startDate": "2025-06-08T19:22:29Z",
+            "endDate": "2025-11-05T19:22:29Z",
+            "displayDuration": 5000,
+            "priority": "normal"
         }
     ]
 }
