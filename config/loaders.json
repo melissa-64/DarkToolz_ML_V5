@@ -1,3 +1,13 @@
 {
-    "loaders": []
+    "loaders": [
+        {
+            "id": "RedChair",
+            "name": "RedChair",
+            "categoryId": "bo6",
+            "downloadUrl": "https://mega.nz/folder/dykmiAQT#94TUcKiUKlCpi6oVX_mDXw/file/Yv0XmR7D",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
+        }
+    ]
 }
