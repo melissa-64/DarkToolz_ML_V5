@@ -26,6 +26,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "SilentExternal",
+            "name": "SilentAim",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1182945187341799475/Black_Ops_External_Launcher.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
