@@ -18,13 +18,13 @@
             "key": "HyperVDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": true
+            "enabled": false
         },
         {
             "key": "MemoryIntegrityDisabled",
             "expectedValue": true,
             "fixable": true,
-            "enabled": false
+            "enabled": true
         },
         {
             "key": "DriverBlocklistDisabled",
