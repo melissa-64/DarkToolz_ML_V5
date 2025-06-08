@@ -17,6 +17,15 @@
             "status": "online",
             "imageUrl": "",
             "productUrl": ""
+        },
+        {
+            "id": "Zenith",
+            "name": "Zenith",
+            "categoryId": "bo6",
+            "downloadUrl": "https://cloud.anewvision.fr/1182945187341799475/t10_zl_lwTbKA_updated.exe",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": ""
         }
     ]
 }
